@@ -27,5 +27,6 @@ const person={
 
 const {first_name}= person;
 const {first_name : first}=person;
-console.log(first_name);
-console.log(first);
+// console.log(first_name);
+// console.log(first);
+
